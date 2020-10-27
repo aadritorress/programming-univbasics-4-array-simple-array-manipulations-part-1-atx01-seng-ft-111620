@@ -17,7 +17,7 @@ def pop_with_args(dog_breeds)
 end
 
 def using_shift(array)
-  array = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+  
 array.shift
 end
 
